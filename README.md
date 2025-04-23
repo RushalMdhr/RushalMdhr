@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mheteula</h1>
+<h1 align="center">Hi 👋, I'm Rushal Manandhar (Mheteula)</h1>
 <h3 align="center">Exploring Creativity and Automation</h3>
 
 <!-- Gif Image on the right -->
