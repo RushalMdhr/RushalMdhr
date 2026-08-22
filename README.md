@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rushal Manandhar</h1>
 <h3 align="center">Exploring Creativity and Automation</h3>
 
+<!-- Gif Image on the right --> 
+<img align="right" alt="just code it" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushalmdhr&label=Profile%20views&color=0e75b6&style=flat" alt="rushalmdhr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushalmdhr" alt="rushalmdhr" /></a> </p>
