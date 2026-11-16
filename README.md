@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushalmdhr&label=Profile%20views&color=0e75b6&style=flat" alt="rushalmdhr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushalmdhr" alt="rushalmdhr" /></a> </p>
-
 - I'm a Computer Engineering student passionate about building practical software products, full-stack applications, and AI-powered solutions.
 - I enjoy turning ideas into working applications, experimenting with new technologies, and understanding how systems work beyond the user interface.
 
