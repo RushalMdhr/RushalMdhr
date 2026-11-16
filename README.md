@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushal Manandhar</h1>
-<h3 align="center">Exploring Creativity and Automation</h3>
+<h3 align="center">Full-Stack Developer | Exploring AI Engineering</h3>
 
 <!-- Gif Image on the right --> 
 <img align="right" alt="just code it" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushalmdhr" alt="rushalmdhr" /></a> </p>
 
-- 🔭 I’m currently working on **AI Interview System**
+- I'm a Computer Engineering student passionate about building practical software products, full-stack applications, and AI-powered solutions.
+- I enjoy turning ideas into working applications, experimenting with new technologies, and understanding how systems work beyond the user interface.
 
 - 👨‍💻 All of my projects are available at [https://rushal-manandhar.vercel.app/](https://rushal-manandhar.vercel.app/)
 
@@ -28,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushalmdhr&show_icons=true&locale=en" alt="rushalmdhr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushalmdhr&" alt="rushalmdhr" /></p>
+
+-🌱 Currently Exploring
+
+***AI Engineering, Backend Development, System Design, and Automation.***
